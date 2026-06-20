@@ -9,7 +9,7 @@
 - Đề tài: Phân tích và dự đoán xu hướng giá xăng RON95 tại Việt Nam
   ### Link trình bày :
 ## 1. Giới thiệu đề tài
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/9619d9d0-8bb0-43d1-9113-81f3c246546a" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/f17dbebf-994c-4d8d-bee7-b9877145fd56" />
 
 Đề tài thực hiện phân tích dữ liệu giá xăng RON95 tại Việt Nam trong giai đoạn 2018–2026. Mục tiêu chính là khai thác dữ liệu lịch sử để tìm ra các xu hướng biến động giá, xác định các mốc giá quan trọng, phân tích mối liên hệ giữa giá dầu Brent thế giới và giá xăng RON95 tại Việt Nam, đồng thời xây dựng mô hình dự đoán giá xăng RON95 trong tương lai.
 
@@ -152,7 +152,9 @@ Câu 7: Phân nhóm giá xăng RON95 thành thấp, trung bình và cao?
 ## 7. Kết quả chính
 
 ### Câu 1: Giá RON95 cao nhất
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/4268c49e-28f3-4cb2-ab80-6fbb36636139" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/4e8ec8e8-46e6-4c9d-b6c9-2b9fd85d9cfa" />
+
+
 
 Kết quả:
 
@@ -170,7 +172,7 @@ Năm 2022 là giai đoạn giá xăng tăng nổi bật.
 ```
 
 ### Câu 2: Giá trung bình theo tháng
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/a8c8d0e4-52bb-441f-9daa-b5caca032c5b" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/b339c2b7-142d-425a-b145-f8facc05b05e" />
 
 Kết quả:
 
@@ -190,7 +192,7 @@ Việc phân tích theo tháng giúp nhận biết tháng nào thường có m�
 ```
 
 ### Câu 3: Giá trung bình theo năm
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/54eff0c5-28c7-4ebb-9c84-54e0a16441e8" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/ffb60a8d-0986-416d-a401-f6153062521a" />
 
 Kết quả:
 
@@ -210,6 +212,7 @@ Năm 2020 là năm có giá RON95 trung bình thấp nhất trong dữ liệu.
 ```
 
 ### Câu 4: Mối liên hệ giữa Brent và RON95
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/579b9736-915f-4705-8b5b-4d23cb56f4ca" />
 
 
 Kết quả:
@@ -227,7 +230,8 @@ Tuy nhiên, giá RON95 trong nước còn phụ thuộc vào thuế, phí, tỷ 
 ```
 
 ### Câu 5: Biến động giá RON95
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/b6fd925d-1282-44b4-97d4-882ad830646e" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/66007b56-7c59-4a44-b9a0-cbfe0e3dce89" />
+
 
 Kết quả:
 
@@ -250,7 +254,8 @@ Các biến động thường xuất hiện vào các ngày điều chỉnh giá
 ```
 
 ### Câu 6: Dự đoán giá RON95 trong 06 tháng cuối năm 2027
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/69e23e6c-f29e-43c5-8216-28075debe466" />
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/787ecfbc-5d42-4d74-875c-d74c153ab7bb" />
 
 Kết quả dự đoán:
 
@@ -277,7 +282,8 @@ Kết quả dự đoán chỉ mang tính tham khảo vì giá xăng thực tế 
 ```
 
 ### Câu 7: Phân nhóm giá RON95
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/d4ec18d1-9c4d-44c8-88e6-a40f991319d0" />
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/7a1a09c8-f9b8-4680-9cf4-9590337d2c27" />
 
 Ngưỡng phân nhóm:
 
