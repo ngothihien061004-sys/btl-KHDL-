@@ -9,6 +9,7 @@
 - Đề tài: Phân tích và dự đoán xu hướng giá xăng RON95 tại Việt Nam
   ### Link trình bày :
 ## 1. Giới thiệu đề tài
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/9619d9d0-8bb0-43d1-9113-81f3c246546a" />
 
 Đề tài thực hiện phân tích dữ liệu giá xăng RON95 tại Việt Nam trong giai đoạn 2018–2026. Mục tiêu chính là khai thác dữ liệu lịch sử để tìm ra các xu hướng biến động giá, xác định các mốc giá quan trọng, phân tích mối liên hệ giữa giá dầu Brent thế giới và giá xăng RON95 tại Việt Nam, đồng thời xây dựng mô hình dự đoán giá xăng RON95 trong tương lai.
 
@@ -151,6 +152,7 @@ Câu 7: Phân nhóm giá xăng RON95 thành thấp, trung bình và cao?
 ## 7. Kết quả chính
 
 ### Câu 1: Giá RON95 cao nhất
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/4268c49e-28f3-4cb2-ab80-6fbb36636139" />
 
 Kết quả:
 
@@ -168,6 +170,7 @@ Năm 2022 là giai đoạn giá xăng tăng nổi bật.
 ```
 
 ### Câu 2: Giá trung bình theo tháng
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/a8c8d0e4-52bb-441f-9daa-b5caca032c5b" />
 
 Kết quả:
 
@@ -187,6 +190,7 @@ Việc phân tích theo tháng giúp nhận biết tháng nào thường có m�
 ```
 
 ### Câu 3: Giá trung bình theo năm
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/54eff0c5-28c7-4ebb-9c84-54e0a16441e8" />
 
 Kết quả:
 
@@ -207,6 +211,7 @@ Năm 2020 là năm có giá RON95 trung bình thấp nhất trong dữ liệu.
 
 ### Câu 4: Mối liên hệ giữa Brent và RON95
 
+
 Kết quả:
 
 ```text
@@ -222,6 +227,7 @@ Tuy nhiên, giá RON95 trong nước còn phụ thuộc vào thuế, phí, tỷ 
 ```
 
 ### Câu 5: Biến động giá RON95
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/b6fd925d-1282-44b4-97d4-882ad830646e" />
 
 Kết quả:
 
@@ -244,6 +250,7 @@ Các biến động thường xuất hiện vào các ngày điều chỉnh giá
 ```
 
 ### Câu 6: Dự đoán giá RON95 trong 06 tháng cuối năm 2027
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/69e23e6c-f29e-43c5-8216-28075debe466" />
 
 Kết quả dự đoán:
 
@@ -270,6 +277,7 @@ Kết quả dự đoán chỉ mang tính tham khảo vì giá xăng thực tế 
 ```
 
 ### Câu 7: Phân nhóm giá RON95
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/d4ec18d1-9c4d-44c8-88e6-a40f991319d0" />
 
 Ngưỡng phân nhóm:
 
@@ -355,6 +363,7 @@ Các nhận xét hiển thị trực tiếp trong Notebook
 ```
 
 ## 10. Kết luận
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/660daffe-64b6-4bf8-9f2d-ff6e5a87ddf1" />
 
 Đề tài đã hoàn thành việc phân tích và dự đoán xu hướng giá xăng RON95 tại Việt Nam. Chương trình đã xử lý được dữ liệu giá xăng dầu Việt Nam giai đoạn 2018–2026, trả lời được 7 câu hỏi phân tích chính, xuất được bảng kết quả và biểu đồ minh họa.
 
@@ -379,27 +388,5 @@ Bổ sung thêm các biến đầu vào như thuế, phí, tỷ giá, giá dầu
 Xây dựng dashboard trực quan để theo dõi giá xăng RON95
 ```
 
-## 12. Tài liệu tham khảo
-
-```text
-[1] Vietnam Petroleum Price Dataset 2018–2026
-https://www.kaggle.com/datasets/nhidoyen/vietnam-petroleum-price-dataset-20182026
-
-[2] Python Documentation
-https://docs.python.org/3/
-
-[3] Pandas Documentation
-https://pandas.pydata.org/docs/
-
-[4] NumPy Documentation
-https://numpy.org/doc/
-
-[5] Matplotlib Documentation
-https://matplotlib.org/stable/
-
-[6] Scikit-learn Documentation
-https://scikit-learn.org/stable/
-
-[7] Jupyter Notebook Documentation
 https://jupyter-notebook.readthedocs.io/
 ```
