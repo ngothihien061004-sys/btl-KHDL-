@@ -1,5 +1,12 @@
 # Phân tích và dự đoán xu hướng giá xăng RON95 tại Việt Nam
+## Thông tin sinh viên
 
+- Họ và tên : Ngô Thị Hiền 
+- Mã sinh viên: K22548010614 
+- Lớp: K58 KTP
+- Môn học: Khoa học dữ liệu
+- Giảng viên hướng dẫn: Thầy Nguyễn Văn Huy
+- Đề tài: Phân tích và dự đoán xu hướng giá xăng RON95 tại Việt Nam
 ## 1. Giới thiệu đề tài
 
 Đề tài thực hiện phân tích dữ liệu giá xăng RON95 tại Việt Nam trong giai đoạn 2018–2026. Mục tiêu chính là khai thác dữ liệu lịch sử để tìm ra các xu hướng biến động giá, xác định các mốc giá quan trọng, phân tích mối liên hệ giữa giá dầu Brent thế giới và giá xăng RON95 tại Việt Nam, đồng thời xây dựng mô hình dự đoán giá xăng RON95 trong tương lai.
