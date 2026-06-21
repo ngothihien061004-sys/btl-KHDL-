@@ -1,4 +1,4 @@
-Link youtube : https://youtu.be/3SVeqzP0RiU?si=2AC7MHlJDM_wCrJm
+Link youtube : https://www.youtube.com/watch?si=OBmXu_buCuO37L7L&v=rHFqoeq7gIg&feature=youtu.be
 # Phân tích và dự đoán xu hướng giá xăng RON95 tại Việt Nam
 ## Thông tin sinh viên
 
