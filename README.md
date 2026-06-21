@@ -1,8 +1,9 @@
+Link youtube : https://youtu.be/3SVeqzP0RiU?si=2AC7MHlJDM_wCrJm
 # Phân tích và dự đoán xu hướng giá xăng RON95 tại Việt Nam
 ## Thông tin sinh viên
 
 - Họ và tên : Ngô Thị Hiền 
-- Mã sinh viên: K22548010614 
+- Mã sinh viên: K225480106014 
 - Lớp: K58 KTP
 - Môn học: Khoa học dữ liệu
 - Giảng viên hướng dẫn: Thầy Nguyễn Văn Huy
